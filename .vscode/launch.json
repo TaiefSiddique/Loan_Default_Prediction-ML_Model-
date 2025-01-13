@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A_New_Year_and_Hurry",
+            "request": "launch",
+            "mainClass": "A_New_Year_and_Hurry",
+            "projectName": "Loan_Default_Prediction(ML_Model)_1257370b"
+        },
+        {
+            "type": "java",
+            "name": "A_Watermelon",
+            "request": "launch",
+            "mainClass": "A_Watermelon",
+            "projectName": "Loan_Default_Prediction(ML_Model)_1257370b"
+        },
+        {
+            "type": "java",
+            "name": "Taief",
+            "request": "launch",
+            "mainClass": "Taief",
+            "projectName": "Loan_Default_Prediction(ML_Model)_1257370b"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "Loan_Default_Prediction(ML_Model)_1257370b"
+        }
+    ]
+}
